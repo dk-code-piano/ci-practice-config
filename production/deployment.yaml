@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: combo-parser
-          image: ghcr.io/dk-code-piano/ci-practice:latest
+          image: ghcr.io/dk-code-piano/ci-practice:f853c1011504104c7fda35b8084e055dd8527730
